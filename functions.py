@@ -14,7 +14,6 @@ def transponer_tablero(tablero):
         # Recorre las columnas
         for j in range(n):
             tablero_transpuesto[j][i] = tablero[i][j]
-            print(tablero[i])
     return tablero_transpuesto
 
 def print_tablero(tablero):
