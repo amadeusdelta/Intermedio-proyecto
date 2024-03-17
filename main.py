@@ -1,5 +1,5 @@
 import random
-import testing
+import functions
 from pynput import keyboard
 
 #Variable global que almacena la tecla presionada
